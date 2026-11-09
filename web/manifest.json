@@ -1,0 +1,9 @@
+{
+  "name": "Greetingly - Greeting Card Creator",
+  "short_name": "Greetingly",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff8fc",
+  "theme_color": "#fff8fc",
+  "description": "Create personalized greeting cards."
+}
